@@ -1,0 +1,11 @@
+{
+  "name": "React Chrome Starter",
+  "description": "Starter template for developing chrome extensions in react",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_title": "React Chrome Start",
+    "default_popup": "index.html"
+  },
+  "permissions": ["storage"]
+}
